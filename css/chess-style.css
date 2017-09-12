@@ -1,0 +1,25 @@
+#main{
+    background-color: #31708f;
+    height: 700px;
+    width: 700px;
+}
+.col-md-1{
+    height: 70px;
+    width: 70px;
+}
+.img{
+    width: 60px;
+    height: 65px;
+}
+.img:hover{
+    position: absolute;
+    height: 65px;
+    width: 70px;
+}
+.selectpath{
+    box-shadow: inset 0px 0px 6px 10px rgba(50,233,59,.8);
+}
+
+.clickpiece{
+    box-shadow: inset 0px 0px 6px 10px rgba(50, 2,59,.8);
+}
