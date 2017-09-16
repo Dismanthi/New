@@ -23,3 +23,6 @@
 .clickpiece{
     box-shadow: inset 0px 0px 6px 10px rgba(50, 2,59,.8);
 }
+.crosspiece{
+    box-shadow: inset 0px 0px 6px 10px rgba(230, 50, 60, .7);
+}
